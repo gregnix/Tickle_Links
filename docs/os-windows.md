@@ -18,6 +18,21 @@
 | **ooxml manpage** |  | https://tcl.sowaswie.de/repos/fossil/ooxml/wiki?name=man-page |
 | **ooxml  Office Open XML File Formats** |  | https://wiki.tcl-lang.org/page/ooxml+%2D+ECMA%2D376+Office+Open+XML+File+Formats+%28spreadsheet%29 |
 
+## MS Windows
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **https://devblogs.microsoft.com/powershell/powershell-and-wpf-wtf/** |  | https://devblogs.microsoft.com/powershell/powershell-and-wpf-wtf/ |
+| **https://docs.microsoft.com/en-us/windows/win32/api/winuser/** |  | https://docs.microsoft.com/en-us/windows/win32/api/winuser/ |
+| **https://twapi.magicsplat.com/v2.2/raw.html** |  | https://twapi.magicsplat.com/v2.2/raw.html |
+| **https://wiki.tcl-lang.org/page/Ask%2C+and+it+shall+be+given+%23+11** |  | https://wiki.tcl-lang.org/page/Ask%2C+and+it+shall+be+given+%23+11 |
+| **https://wiki.tcl-lang.org/page/Microsoft+Windows+and+Tcl** |  | https://wiki.tcl-lang.org/page/Microsoft+Windows+and+Tcl |
+| **https://wiki.tcl-lang.org/page/Microsoft+Windows+and+Tk** |  | https://wiki.tcl-lang.org/page/Microsoft+Windows+and+Tk |
+| **https://wiki.tcl-lang.org/page/SDX+under+Windows** |  | https://wiki.tcl-lang.org/page/SDX+under+Windows |
+| **https://wiki.tcl-lang.org/page/winapi** |  | https://wiki.tcl-lang.org/page/winapi |
+| **https://wiki.tcl-lang.org/page/Windows** |  | https://wiki.tcl-lang.org/page/Windows |
+| **https://wiki.tcl-lang.org/page/Windows+PowerShell** |  | https://wiki.tcl-lang.org/page/Windows+PowerShell |
+
 ## sendkeys
 
 | Resource | Description | Link |

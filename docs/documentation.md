@@ -7,6 +7,7 @@
 | Resource | Description | Link |
 |----------|-------------|------|
 | **Deutschsprachiges Buch „Einführung in Tcl/Tk“** |  | http://www.tcltk.info/index.html |
+| **Programmierung graphischer Benutzerschnittstellen mit Tcl/Tk  (Uni Kassel)** |  | http://nbn-resolving.de/urn:nbn:de:hebis:34-2015040147918 |
 
 ## Dokumentaion
 
