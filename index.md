@@ -16,6 +16,7 @@
 - [dark](#dark) (1)
 - [database](#database) (3)
 - [deploy](#deploy) (1)
+- [doc](#doc) (1)
 - [dom](#dom) (1)
 - [editor](#editor) (1)
 - [elegant](#elegant) (1)
@@ -27,6 +28,8 @@
 - [framework](#framework) (1)
 - [generator](#generator) (2)
 - [github](#github) (3)
+- [grid](#grid) (1)
+- [gui](#gui) (1)
 - [homepage](#homepage) (1)
 - [html](#html) (1)
 - [ide](#ide) (1)
@@ -78,7 +81,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TWAPI** | Extensions |  | https://twapi.magicsplat.com/ |
+| **TWAPI** | Extensions | Windows | https://twapi.magicsplat.com/ |
 
 ## automation
 
@@ -168,6 +171,12 @@
 |----------|----------|-------|------|
 | **Starkit/Starpack** | Build & Deployment |  | https://wiki.tcl-lang.org/page/Starkit |
 
+## doc
+
+| Resource | Category | Group | Link |
+|----------|----------|-------|------|
+| **Tcl/Tkl Documentation** | Documentation | Officical | https://www.tcl-lang.org/doc/ |
+
 ## dom
 
 | Resource | Category | Group | Link |
@@ -238,6 +247,18 @@
 | **tcltk/tcllib** | GitHub Repositories |  | https://github.com/tcltk/tcllib |
 | **tcltk/tklib** | GitHub Repositories | GUI Toolkit | https://github.com/tcltk/tklib |
 
+## grid
+
+| Resource | Category | Group | Link |
+|----------|----------|-------|------|
+| **Grid, Pack, Geometry Management** | Gui |  | http://www.bin-co.com/tcl/tutorial/geometry_managers.php |
+
+## gui
+
+| Resource | Category | Group | Link |
+|----------|----------|-------|------|
+| **Grid, Pack, Geometry Management** | Gui |  | http://www.bin-co.com/tcl/tutorial/geometry_managers.php |
+
 ## homepage
 
 | Resource | Category | Group | Link |
@@ -294,7 +315,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Tcl/Tk Man Pages** | Documentation |  | https://www.magicsplat.com/tcl-docs/ |
+| **Tcl/Tk Man Pages** | Documentation | Officical | https://www.magicsplat.com/tcl-docs/ |
 
 ## mirror
 
@@ -356,7 +377,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Tcl/Tk Man Pages** | Documentation |  | https://www.magicsplat.com/tcl-docs/ |
+| **Tcl/Tk Man Pages** | Documentation | Officical | https://www.magicsplat.com/tcl-docs/ |
 
 ## rendering
 
@@ -476,7 +497,7 @@
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
 | **Magicsplat** | Distributions |  | https://www.magicsplat.com/tcl-installer/ |
-| **TWAPI** | Extensions |  | https://twapi.magicsplat.com/ |
+| **TWAPI** | Extensions | Windows | https://twapi.magicsplat.com/ |
 | **Sun Valley Theme** | ttk Themes | GUI Toolkit | https://github.com/rdbende/Sun-Valley-ttk-theme |
 
 ## xml
