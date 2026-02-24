@@ -1,16 +1,20 @@
 # GitHub Repositories
 
-> Offizielle Mirrors und Community
+> Official Mirrors and Community
 
-| Ressource | Beschreibung | Link |
-|-----------|-------------|------|
-| **tcltk (Organisation)** | Offizielle GitHub-Mirrors | https://github.com/tcltk |
-| **tcltk-depot** | Community-Depot für verwaiste Pakete | https://github.com/tcltk-depot |
-| **tcltk/tcl** | Tcl Core (Mirror) | https://github.com/tcltk/tcl |
-| **tcltk/tcllib** | Tcl Standard Library | https://github.com/tcltk/tcllib |
-| **tcltk/tk** | Tk Toolkit (Mirror) | https://github.com/tcltk/tk |
+## GUI Toolkit
+
+| Resource | Description | Link |
+|----------|-------------|------|
 | **tcltk/tklib** | Tk Library (Tablelist, Plotchart, ...) | https://github.com/tcltk/tklib |
+
+## Other
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **tcltk (Organization)** | Official GitHub mirrors | https://github.com/tcltk |
+| **tcltk/tcllib** | Tcl Standard Library | https://github.com/tcltk/tcllib |
 
 ---
 
-[← Zurück zur Übersicht](../README.md)
+[← Back to Overview](../README.md) · [Tag Index](../index.md)

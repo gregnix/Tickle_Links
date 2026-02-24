@@ -1,14 +1,15 @@
 # ttk Themes
 
-> Themes für Themed Tk
+> Themes for Themed Tk
 
-| Ressource | Beschreibung | Link |
-|-----------|-------------|------|
-| **awthemes** | Moderne Themes (awdark, awlight, …) | https://sourceforge.net/projects/tcl-awthemes/ |
-| **Azure Theme** | Elegantes Light/Dark-Theme | https://github.com/rdbende/Azure-ttk-theme |
-| **Sun Valley Theme** | Modernes Windows-11-Theme | https://github.com/rdbende/Sun-Valley-ttk-theme |
-| **Theme-Übersicht Wiki** | Liste aller bekannten ttk-Themes | https://wiki.tcl-lang.org/page/List+of+ttk+Themes |
+## GUI Toolkit
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **awthemes** | Modern themes (awdark, awlight, …) | https://sourceforge.net/projects/tcl-awthemes/ |
+| **Azure Theme** | Elegant light/dark theme | https://github.com/rdbende/Azure-ttk-theme |
+| **Sun Valley Theme** | Modern Windows 11 theme | https://github.com/rdbende/Sun-Valley-ttk-theme |
 
 ---
 
-[← Zurück zur Übersicht](../README.md)
+[← Back to Overview](../README.md) · [Tag Index](../index.md)

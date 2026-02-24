@@ -1,14 +1,12 @@
 # Community
 
-> Konferenzen, Stammtisch, Foren
+> Conferences, Meetups, Forums
 
-| Ressource | Beschreibung | Link |
-|-----------|-------------|------|
+| Resource | Description | Link |
+|----------|-------------|------|
 | **comp.lang.tcl** | Newsgroup / Google Groups | https://groups.google.com/g/comp.lang.tcl |
-| **GitHub Topic: tcl-tk** | Tcl/Tk Repos auf GitHub finden | https://github.com/topics/tcl-tk |
-| **Tcl Konferenzen** | Übersicht vergangener und kommender | https://wiki.tcl-lang.org/page/Tcl+Conferences |
-| **Tcl Stammtisch** | Monatlicher virtueller Stammtisch | https://wiki.tcl-lang.org/page/Monatlicher+virtueller+Tcl+Stammtisch |
+| **Tcl Conferences** | Past and upcoming conferences | https://wiki.tcl-lang.org/page/Tcl+Conferences |
 
 ---
 
-[← Zurück zur Übersicht](../README.md)
+[← Back to Overview](../README.md) · [Tag Index](../index.md)
