@@ -143,7 +143,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TclOO** | Core Libraries |  | https://wiki.tcl-lang.org/page/TclOO |
+| **TclOO** | Core Libraries | TclOO | https://wiki.tcl-lang.org/page/TclOO |
 
 ## css
 
@@ -161,9 +161,9 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Oratcl** | Database |  | https://sourceforge.net/projects/oratcl/ |
-| **TDBC** | Database |  | https://core.tcl-lang.org/tdbcodbc/ |
-| **tclsqlite** | Database |  | https://www.sqlite.org/tclsqlite.html |
+| **Oratcl** | Database | Oracle | https://sourceforge.net/projects/oratcl/ |
+| **TDBC** | Database | TDBC | https://core.tcl-lang.org/tdbcodbc/ |
+| **tclsqlite** | Database | Sqlite | https://www.sqlite.org/tclsqlite.html |
 
 ## deploy
 
@@ -288,7 +288,7 @@
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
 | **Tcllib** | Core Libraries |  | https://core.tcl-lang.org/tcllib/ |
-| **Tklib** | Core Libraries | GUI Toolkit | https://core.tcl-lang.org/tklib/ |
+| **Tklib** | Core Libraries |  | https://core.tcl-lang.org/tklib/ |
 | **tcltk/tcllib** | GitHub Repositories |  | https://github.com/tcltk/tcllib |
 | **tcltk/tklib** | GitHub Repositories | GUI Toolkit | https://github.com/tcltk/tklib |
 
@@ -315,7 +315,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Tcl/Tk Man Pages** | Documentation | Officical | https://www.magicsplat.com/tcl-docs/ |
+| **Tcl/Tk Man Pages** | Documentation |  | https://www.magicsplat.com/tcl-docs/ |
 
 ## mirror
 
@@ -346,13 +346,13 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TclOO** | Core Libraries |  | https://wiki.tcl-lang.org/page/TclOO |
+| **TclOO** | Core Libraries | TclOO | https://wiki.tcl-lang.org/page/TclOO |
 
 ## oracle
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Oratcl** | Database |  | https://sourceforge.net/projects/oratcl/ |
+| **Oratcl** | Database | Oracle | https://sourceforge.net/projects/oratcl/ |
 
 ## packaging
 
@@ -377,7 +377,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Tcl/Tk Man Pages** | Documentation | Officical | https://www.magicsplat.com/tcl-docs/ |
+| **Tcl/Tk Man Pages** | Documentation |  | https://www.magicsplat.com/tcl-docs/ |
 
 ## rendering
 
@@ -408,7 +408,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **tclsqlite** | Database |  | https://www.sqlite.org/tclsqlite.html |
+| **tclsqlite** | Database | Sqlite | https://www.sqlite.org/tclsqlite.html |
 
 ## ssl
 
@@ -421,7 +421,7 @@
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
 | **Tcllib** | Core Libraries |  | https://core.tcl-lang.org/tcllib/ |
-| **TDBC** | Database |  | https://core.tcl-lang.org/tdbcodbc/ |
+| **TDBC** | Database | TDBC | https://core.tcl-lang.org/tdbcodbc/ |
 
 ## svg
 
@@ -484,7 +484,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Tklib** | Core Libraries | GUI Toolkit | https://core.tcl-lang.org/tklib/ |
+| **Tklib** | Core Libraries |  | https://core.tcl-lang.org/tklib/ |
 
 ## wiki
 

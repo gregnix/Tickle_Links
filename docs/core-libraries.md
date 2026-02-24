@@ -2,18 +2,18 @@
 
 > Tcllib, Tklib, TclOO
 
-## GUI Toolkit
+## TclOO
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| **Tklib** | Tk extension library | https://core.tcl-lang.org/tklib/ |
+| **TclOO** | Object orientation (built-in since 8.6) | https://wiki.tcl-lang.org/page/TclOO |
 
 ## Other
 
 | Resource | Description | Link |
 |----------|-------------|------|
 | **Tcllib** | Standard library (JSON, HTTP, CSV, …) | https://core.tcl-lang.org/tcllib/ |
-| **TclOO** | Object orientation (built-in since 8.6) | https://wiki.tcl-lang.org/page/TclOO |
+| **Tklib** | Tk extension library | https://core.tcl-lang.org/tklib/ |
 
 ---
 

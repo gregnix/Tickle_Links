@@ -5,6 +5,8 @@
 | Resource | Description | Link |
 |----------|-------------|------|
 | **awesome-tcl-tk** | Curated awesome list | https://github.com/kr1sp1n/awesome-tcl-tk |
+| **Online Tcl and Tk Tutorials** |  | https://wiki.tcl-lang.org/page/Online+Tcl+and+Tk+Tutorials |
+| **Tcl-Related-Link** |  | https://github.com/ray2501/Tcl-Related-Link |
 | **tcltkResources** | Focus on Tcl/Tk 9.0 support | https://github.com/georgtree/tcltkResources |
 
 ---
