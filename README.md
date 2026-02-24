@@ -4,13 +4,13 @@ A curated collection of links and resources for **Tcl/Tk**.
 
 ## Categories
 
-- [**Awesome Lists**](docs/awesome-lists.md) (4 Links)
+- [**Awesome Lists**](docs/awesome-lists.md) (2 Links)
 - [**Build & Deployment**](docs/build-and-deployment.md) (2 Links)
 - [**Community**](docs/community.md) (2 Links)
 - [**Core Libraries**](docs/core-libraries.md) (3 Links)
 - [**Database**](docs/database.md) (3 Links)
 - [**Distributions**](docs/distributions.md) (2 Links)
-- [**Documentation**](docs/documentation.md) (7 Links)
+- [**Documentation**](docs/documentation.md) (8 Links)
 - [**Editors**](docs/editors.md) (2 Links)
 - [**Extensions**](docs/extensions.md) (7 Links)
 - [**GitHub Repositories**](docs/github-repositories.md) (3 Links)
@@ -23,7 +23,7 @@ A curated collection of links and resources for **Tcl/Tk**.
 ## Groups
 
 - **GUI Toolkit** (9 Links) — Core widgets and theming
-- **Officical** (6 Links)
+- **Officical** (7 Links)
 - **PDF** (2 Links) — PDF generation and processing
 - **Windows** (1 Links)
 - **XML/HTML** (2 Links) — XML parsing and HTML rendering
@@ -32,7 +32,7 @@ A curated collection of links and resources for **Tcl/Tk**.
 
 ---
 
-Total: 49 links in 15 categories and 5 groups
+Total: 48 links in 15 categories and 5 groups
 
 ## License
 

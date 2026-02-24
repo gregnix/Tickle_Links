@@ -14,6 +14,7 @@
 |----------|-------------|------|
 | **Tcl/Tk 8.6** | Tcl/Tk manuals | https://www.tcl-lang.org/software/tcltk/8.6.html |
 | **Tcl/Tk 9.0** |  | https://www.tcl-lang.org/man/tcl9.0/ |
+| **Tcl/Tk 9.1** | Tcl/Tk 9.1   manual | https://www.tcl-lang.org/man/tcl9.1/ |
 | **Tcl/Tk Man Pages** | Reference documentation (Magicsplat) | https://www.magicsplat.com/tcl-docs/ |
 | **Tcl/Tkl Documentation** |  | https://www.tcl-lang.org/doc/ |
 | **tcllib** | tcllib manuals | https://www.tcl-lang.org/man/tcl8.6/TclLib/contents.htm |
