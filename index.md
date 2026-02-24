@@ -75,13 +75,13 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **AndroWish** | Distributions |  | https://www.androwish.org/ |
+| **AndroWish** | Distributions | Androwish | https://www.androwish.org/ |
 
 ## api
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TWAPI** | Extensions | Windows | https://twapi.magicsplat.com/ |
+| **TWAPI** | OS Windows | twapi | https://twapi.magicsplat.com/ |
 
 ## automation
 
@@ -106,7 +106,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Tohil** | Extensions |  | https://github.com/flightaware/tohil |
+| **Tohil** | Other Languages | Python | https://github.com/flightaware/tohil |
 
 ## c
 
@@ -119,7 +119,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **BWidget** | Widgets | GUI Toolkit | https://core.tcl-lang.org/bwidget/ |
+| **BWidget** | Collection | BWidget | https://core.tcl-lang.org/bwidget/ |
 
 ## community
 
@@ -143,13 +143,13 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TclOO** | Core Libraries | TclOO | https://wiki.tcl-lang.org/page/TclOO |
+| **TclOO** | OO Systems | TclOO | https://wiki.tcl-lang.org/page/TclOO |
 
 ## css
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **tkhtml3** | Widgets | XML/HTML | https://wiki.tcl-lang.org/page/tkhtml3 |
+| **tkhtml3** | Tk | XML/HTML | https://wiki.tcl-lang.org/page/tkhtml3 |
 
 ## dark
 
@@ -175,7 +175,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Tcl/Tkl Documentation** | Documentation | Officical | https://www.tcl-lang.org/doc/ |
+| **Tcl/Tkl Documentation** | Documentation | Official | https://www.tcl-lang.org/doc/ |
 
 ## dom
 
@@ -187,7 +187,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **alited** | Editors |  | https://aplsimple.github.io/en/tcl/alited/alited.html |
+| **alited** | Developer |  | https://aplsimple.github.io/en/tcl/alited/alited.html |
 
 ## elegant
 
@@ -230,14 +230,14 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Wapp** | Networking |  | https://wapp.tcl.tk/ |
+| **Wapp** | I/O & Networking |  | https://wapp.tcl.tk/ |
 
 ## generator
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **pdf4tcl** | Extensions | PDF | https://pdf4tcl.sourceforge.net/ |
-| **tclfpdf** | Extensions | PDF | https://github.com/lamuzzachiodi/tclfpdf |
+| **pdf4tcl** | Printing & PDF | pdf4tcl | https://pdf4tcl.sourceforge.net/ |
+| **tclfpdf** | Printing & PDF | tclfpdf | https://github.com/lamuzzachiodi/tclfpdf |
 
 ## github
 
@@ -251,13 +251,13 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Grid, Pack, Geometry Management** | Gui |  | http://www.bin-co.com/tcl/tutorial/geometry_managers.php |
+| **Grid, Pack, Geometry Management** | Tk GM |  | http://www.bin-co.com/tcl/tutorial/geometry_managers.php |
 
 ## gui
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Grid, Pack, Geometry Management** | Gui |  | http://www.bin-co.com/tcl/tutorial/geometry_managers.php |
+| **Grid, Pack, Geometry Management** | Tk GM |  | http://www.bin-co.com/tcl/tutorial/geometry_managers.php |
 
 ## homepage
 
@@ -269,13 +269,13 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **tkhtml3** | Widgets | XML/HTML | https://wiki.tcl-lang.org/page/tkhtml3 |
+| **tkhtml3** | Tk | XML/HTML | https://wiki.tcl-lang.org/page/tkhtml3 |
 
 ## ide
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **alited** | Editors |  | https://aplsimple.github.io/en/tcl/alited/alited.html |
+| **alited** | Developer |  | https://aplsimple.github.io/en/tcl/alited/alited.html |
 
 ## installer
 
@@ -302,14 +302,14 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Nagelfar** | Editors |  | https://nagelfar.sourceforge.net/ |
+| **Nagelfar** | Developer |  | https://nagelfar.sourceforge.net/ |
 
 ## list
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
 | **awesome-tcl-tk** | Awesome Lists |  | https://github.com/kr1sp1n/awesome-tcl-tk |
-| **Tablelist (tablelist_tile)** | Widgets | GUI Toolkit | https://www.nemethi.de/tablelist/ |
+| **Tablelist (tablelist_tile)** | Tk Table | Tablelist | https://www.nemethi.de/tablelist/ |
 
 ## manpages
 
@@ -327,7 +327,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **AndroWish** | Distributions |  | https://www.androwish.org/ |
+| **AndroWish** | Distributions | Androwish | https://www.androwish.org/ |
 
 ## newsgroup
 
@@ -346,7 +346,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TclOO** | Core Libraries | TclOO | https://wiki.tcl-lang.org/page/TclOO |
+| **TclOO** | OO Systems | TclOO | https://wiki.tcl-lang.org/page/TclOO |
 
 ## oracle
 
@@ -364,14 +364,14 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **pdf4tcl** | Extensions | PDF | https://pdf4tcl.sourceforge.net/ |
-| **tclfpdf** | Extensions | PDF | https://github.com/lamuzzachiodi/tclfpdf |
+| **pdf4tcl** | Printing & PDF | pdf4tcl | https://pdf4tcl.sourceforge.net/ |
+| **tclfpdf** | Printing & PDF | tclfpdf | https://github.com/lamuzzachiodi/tclfpdf |
 
 ## python
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Tohil** | Extensions |  | https://github.com/flightaware/tohil |
+| **Tohil** | Other Languages | Python | https://github.com/flightaware/tohil |
 
 ## reference
 
@@ -383,8 +383,8 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **tkhtml3** | Widgets | XML/HTML | https://wiki.tcl-lang.org/page/tkhtml3 |
-| **tksvg** | Widgets | GUI Toolkit | https://github.com/tcltk-depot/tksvg |
+| **tksvg** | Graphics & Plotting | GUI Toolkit | https://github.com/tcltk-depot/tksvg |
+| **tkhtml3** | Tk | XML/HTML | https://wiki.tcl-lang.org/page/tkhtml3 |
 
 ## resources
 
@@ -396,7 +396,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TclTLS** | Networking |  | https://core.tcl-lang.org/tcltls/ |
+| **TclTLS** | I/O & Networking |  | https://core.tcl-lang.org/tcltls/ |
 
 ## source
 
@@ -414,7 +414,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TclTLS** | Networking |  | https://core.tcl-lang.org/tcltls/ |
+| **TclTLS** | I/O & Networking |  | https://core.tcl-lang.org/tcltls/ |
 
 ## standard
 
@@ -427,19 +427,19 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **tksvg** | Widgets | GUI Toolkit | https://github.com/tcltk-depot/tksvg |
+| **tksvg** | Graphics & Plotting | GUI Toolkit | https://github.com/tcltk-depot/tksvg |
 
 ## syntax
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Nagelfar** | Editors |  | https://nagelfar.sourceforge.net/ |
+| **Nagelfar** | Developer |  | https://nagelfar.sourceforge.net/ |
 
 ## table
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Tablelist (tablelist_tile)** | Widgets | GUI Toolkit | https://www.nemethi.de/tablelist/ |
+| **Tablelist (tablelist_tile)** | Tk Table | Tablelist | https://www.nemethi.de/tablelist/ |
 
 ## theme
 
@@ -453,32 +453,32 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TclTLS** | Networking |  | https://core.tcl-lang.org/tcltls/ |
+| **TclTLS** | I/O & Networking |  | https://core.tcl-lang.org/tcltls/ |
 
 ## ttk
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TkDocs** | Documentation | GUI Toolkit | https://tkdocs.com/ |
+| **TkDocs** | Documentation | Tutorial | https://tkdocs.com/ |
 
 ## tutorial
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **TkDocs** | Documentation | GUI Toolkit | https://tkdocs.com/ |
+| **TkDocs** | Documentation | Tutorial | https://tkdocs.com/ |
 
 ## web
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Wapp** | Networking |  | https://wapp.tcl.tk/ |
+| **Wapp** | I/O & Networking |  | https://wapp.tcl.tk/ |
 
 ## widget
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **BWidget** | Widgets | GUI Toolkit | https://core.tcl-lang.org/bwidget/ |
-| **Tablelist (tablelist_tile)** | Widgets | GUI Toolkit | https://www.nemethi.de/tablelist/ |
+| **BWidget** | Collection | BWidget | https://core.tcl-lang.org/bwidget/ |
+| **Tablelist (tablelist_tile)** | Tk Table | Tablelist | https://www.nemethi.de/tablelist/ |
 
 ## widgets
 
@@ -497,7 +497,7 @@
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
 | **Magicsplat** | Distributions |  | https://www.magicsplat.com/tcl-installer/ |
-| **TWAPI** | Extensions | Windows | https://twapi.magicsplat.com/ |
+| **TWAPI** | OS Windows | twapi | https://twapi.magicsplat.com/ |
 | **Sun Valley Theme** | ttk Themes | GUI Toolkit | https://github.com/rdbende/Sun-Valley-ttk-theme |
 
 ## xml
