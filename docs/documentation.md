@@ -23,7 +23,7 @@
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| **Tcl-Related-Link** |  | https://github.com/ray2501/Tcl-Related-Link |
+| **Online Tcl and Tk Tutorials** |  | https://wiki.tcl-lang.org/page/Online+Tcl+and+Tk+Tutorials |
 | **tcl-tk-reference-guide** |  | https://www.rkeene.org/projects/vtcl/tcl-tk-reference-guide.html |
 | **Tcl/Tk Man Pages** | Reference documentation (Magicsplat) | https://www.magicsplat.com/tcl-docs/ |
 | **Tip 700** | Use Markdown instead of nroff for the Tcl/Tk manual pages | https://core.tcl-lang.org/tips/doc/trunk/tip/700.md |
