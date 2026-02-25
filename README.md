@@ -5,7 +5,7 @@ A curated collection of links and resources for **Tcl/Tk**.
 ## Categories
 
 - [**Awesome Lists**](docs/awesome-lists.md) (3 Links)
-- [**Build & Deployment**](docs/build-and-deployment.md) (20 Links)
+- [**Build & Deployment**](docs/build-and-deployment.md) (24 Links)
 - [**Collection**](docs/collection.md) (2 Links)
 - [**Community**](docs/community.md) (2 Links)
 - [**Core Libraries**](docs/core-libraries.md) (2 Links)
@@ -18,6 +18,8 @@ A curated collection of links and resources for **Tcl/Tk**.
 - [**OS Mac**](docs/os-mac.md) (1 Links)
 - [**OS Windows**](docs/os-windows.md) (20 Links)
 - [**Official Sources**](docs/official-sources.md) (4 Links)
+- [**Pim**](docs/pim.md) (22 Links)
+- [**Recipes**](docs/recipes.md) (0 Links)
 - [**Tcl Tree**](docs/tcl-tree.md) (2 Links)
 - [**Tcl cmd**](docs/tcl-cmd.md) (37 Links)
 - [**Tcl file**](docs/tcl-file.md) (4 Links)
@@ -25,7 +27,7 @@ A curated collection of links and resources for **Tcl/Tk**.
 - [**Tk**](docs/tk.md) (1 Links)
 - [**Tk GM**](docs/tk-gm.md) (1 Links)
 - [**Tk Table**](docs/tk-table.md) (19 Links)
-- [**Tk cmd**](docs/tk-cmd.md) (4 Links)
+- [**Tk cmd**](docs/tk-cmd.md) (13 Links)
 - [**Tk fonts**](docs/tk-fonts.md) (7 Links)
 - [**json**](docs/json.md) (1 Links)
 - [**ttk Themes**](docs/ttk-themes.md) (3 Links)
@@ -36,11 +38,11 @@ A curated collection of links and resources for **Tcl/Tk**.
 - [**I/O & Networking**](docs/i-o-and-networking.md) (3 Links)
 - [**Data Formats**](docs/data-formats.md) (32 Links)
 - [**Events & Threading**](docs/events-and-threading.md) (0 Links)
-- [**Graphics & Plotting**](docs/graphics-and-plotting.md) (28 Links)
+- [**Graphics & Plotting**](docs/graphics-and-plotting.md) (46 Links)
 - [**Encoding & i18n**](docs/encoding-and-i18n.md) (11 Links)
 - [**Debug & Testing**](docs/debug-and-testing.md) (1 Links)
 - [**Versions**](docs/versions.md) (18 Links)
-- [**Printing & PDF**](docs/printing-and-pdf.md) (60 Links)
+- [**Printing & PDF**](docs/printing-and-pdf.md) (64 Links)
 
 ## Groups
 
@@ -61,7 +63,7 @@ A curated collection of links and resources for **Tcl/Tk**.
 - **XML/HTML** (2 Links) — XML parsing and HTML rendering
 - **Tcl/Tk** (21 Links)
 - **core** (7 Links)
-- **Dokumentaion** (43 Links)
+- **Dokumentaion** (42 Links)
 - **Bücher** (7 Links)
 - **examples** (4 Links)
 - **Source Code** (5 Links)
@@ -328,7 +330,7 @@ A curated collection of links and resources for **Tcl/Tk**.
 - **windows** (3 Links)
 - **printui.dll** (1 Links)
 - **pdftocairo** (1 Links)
-- **Kontakte und Kalender** (11 Links)
+- **Kontakte und Kalender** (0 Links)
 - **Mail** (3 Links)
 - **Report** (11 Links)
 - **Script** (11 Links)
@@ -340,7 +342,7 @@ A curated collection of links and resources for **Tcl/Tk**.
 - **sprintf** (3 Links)
 - **msgcat** (3 Links)
 - **subst** (4 Links)
-- **calendar** (4 Links)
+- **calendar** (15 Links)
 - **Thread** (11 Links)
 - **Promise** (6 Links)
 - **update event** (7 Links)
@@ -351,7 +353,7 @@ A curated collection of links and resources for **Tcl/Tk**.
 
 ---
 
-Total: 1830 links in 38 categories and 302 groups
+Total: 1829 links in 40 categories and 302 groups
 
 ## License
 
