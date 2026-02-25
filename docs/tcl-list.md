@@ -10,7 +10,7 @@
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| **{*} - Tcl** |  | https://www.tcl-lang.org/man/tcl/TclCmd/Tcl.html |
+| **{*} - Tcl** |  | https://www.tcl-lang.org/man/tcl9.0/TclCmd/Tcl.html |
 
 ## list
 

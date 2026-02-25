@@ -67,8 +67,8 @@
 | **BOOK Tcl 8.5 Network Programming** |  | https://wiki.tcl-lang.org/page/BOOK+Tcl+8%2E5+Network+Programming |
 | **BOOK The Tcl Programming Language** |  | https://wiki.tcl-lang.org/page/BOOK+The+Tcl+Programming+Language |
 | **BOOK: Tcl/Tk: A Developer's Guide** |  | https://wiki.tcl-lang.org/page/BOOK%3A+Tcl%2FTk%3A+A+Developer%27s+Guide |
-| **contents** |  | https://www.tcl.tk/man/tcl8.6/TclCmd/contents.html |
-| **index** |  | https://www.tcl.tk/man/tcl8.7/TclCmd/index.html |
+| **contents** |  | https://www.tcl-lang.org/man/tcl9.0/TclCmd/contents.html |
+| **index** |  | https://www.tcl-lang.org/man/tcl9.0/TclCmd/index.html |
 | **info** |  | https://www.tcl-lang.org/man/tcl9.0/TclCmd/info.html |
 | **Lifecycle Object Generators 19th Tcl'2012** |  | https://www.tcl.tk/community/tcl2012/abstract.html#sw |
 | **my** |  | https://www.tcl-lang.org/man/tcl9.0/TclCmd/my.html |

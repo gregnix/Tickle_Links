@@ -78,7 +78,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **ttk::image** | Graphics & Plotting | image | https://www.tcl-lang.org/man/tcl8.6/TkCmd/ttk_image.html |
+| **ttk::image** | Graphics & Plotting | image | https://www.tcl-lang.org/man/tcl9.0/TkCmd/ttk_image.html |
 
 ## android
 
@@ -290,7 +290,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **ttk::image** | Graphics & Plotting | image | https://www.tcl-lang.org/man/tcl8.6/TkCmd/ttk_image.html |
+| **ttk::image** | Graphics & Plotting | image | https://www.tcl-lang.org/man/tcl9.0/TkCmd/ttk_image.html |
 
 ## installer
 
@@ -330,7 +330,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **ttk::image** | Graphics & Plotting | image | https://www.tcl-lang.org/man/tcl8.6/TkCmd/ttk_image.html |
+| **ttk::image** | Graphics & Plotting | image | https://www.tcl-lang.org/man/tcl9.0/TkCmd/ttk_image.html |
 
 ## manpages
 

@@ -26,7 +26,7 @@
 | **open (TclCmd)** |  | https://www.tcl-lang.org/man/tcl9.0/TclCmd/open.html |
 | **pid (TclCmd)** |  | https://www.tcl-lang.org/man/tcl9.0/TclCmd/pid.html |
 | **Pipe servers in C from Tcl** |  | https://wiki.tcl-lang.org/page/Pipe+servers+in+C+from+Tcl |
-| **Tcl26** |  | https://www.tcl.tk/man/tcl8.5/tutorial/Tcl26.html |
+| **Tcl26** |  | https://www.tcl-lang.org/man/tcl9.0/tutorial/Tcl26.html |
 
 ## expr
 
@@ -34,19 +34,13 @@
 |----------|-------------|------|
 | **&** |  | https://wiki.tcl-lang.org/page/%26 |
 | **^** |  | https://wiki.tcl-lang.org/page/%7E |
-| **expr (TclCmd)** |  | https://www.tcl-lang.org/man/tcl/TclCmd/expr.html |
+| **expr (TclCmd)** |  | https://www.tcl-lang.org/man/tcl9.0/TclCmd/expr.html |
 | **expr in ni** |  | https://www.tcl-lang.org/man/tcl9.0/TclCmd/expr.html#M15 |
 | **expr*** |  | https://wiki.tcl-lang.org/page/expr%2A |
 | **in** |  | https://wiki.tcl-lang.org/page/In |
 | **ni** |  | https://wiki.tcl-lang.org/page/ni |
 | **\|** |  | https://wiki.tcl-lang.org/page/%7C |
 | **~** |  | https://wiki.tcl-lang.org/page/%5E |
-
-## invoke
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| **invoke** |  | https://wiki.tcl-lang.org/page/invoke |
 
 ## puts
 
@@ -69,7 +63,7 @@
 | **TIP #323: Do Nothing Gracefully** |  | https://wiki.tcl-lang.org/page/TIP+%23323%3A+Do+Nothing+Gracefully |
 | **What does {*} do in Tcl?** |  | https://stackoverflow.com/questions/5124185/what-does-do-in-tcl/ |
 | **{*}** |  | https://wiki.tcl-lang.org/page/%7B*%7D |
-| **{*}$script - eval** |  | https://www.tcl-lang.org/man/tcl/TclCmd/eval.html |
+| **{*}$script - eval** |  | https://www.tcl-lang.org/man/tcl9.0/TclCmd/eval.html |
 | **{expand}** |  | https://wiki.tcl-lang.org/page/%7Bexpand%7D |
 
 ---

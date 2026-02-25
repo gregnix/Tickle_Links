@@ -20,11 +20,11 @@
 
 | Resource | Description | Link |
 |----------|-------------|------|
-| **Tcl/Tk 8.6** | Tcl/Tk 8 .6  manuals | https://www.tcl-lang.org/man/tcl8.6/ |
+| **Tcl/Tk 8.6** | Tcl/Tk 8 .6  manuals | https://www.tcl-lang.org/man/tcl9.0/ |
 | **Tcl/Tk 9.0** | Tcl/Tk 9.0 manuals | https://www.tcl-lang.org/man/tcl9.0/ |
 | **Tcl/Tk 9.1** | Tcl/Tk 9.1   manual | https://www.tcl-lang.org/man/tcl9.1/ |
 | **Tcl/Tkl Documentation** |  | https://www.tcl-lang.org/doc/ |
-| **tcllib** | tcllib manuals | https://www.tcl-lang.org/man/tcl8.6/TclLib/contents.html |
+| **tcllib** | tcllib manuals | https://www.tcl-lang.org/man/tcl9.0/TclLib/contents.html |
 | **tklib** | tklib manuals | https://core.tcl-lang.org/tklib/doc/trunk/embedded/md/toc.md |
 
 ## Tip

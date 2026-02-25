@@ -31,6 +31,7 @@
 | Resource | Description | Link |
 |----------|-------------|------|
 | **event generate** |  | https://wiki.tcl-lang.org/page/event+generate |
+| **invoke** |  | https://wiki.tcl-lang.org/page/invoke |
 | **Invoke button with Enter key** |  | https://wiki.tcl-lang.org/page/ttk%3A%3Abutton#d2fecb945c77dd513d6035fa08ca283e2d08f136cc5d64a7b805493877c9e5f4 |
 
 ---

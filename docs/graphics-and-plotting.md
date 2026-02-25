@@ -41,14 +41,14 @@
 | **fits** |  | https://wiki.tcl-lang.org/page/FITS |
 | **GDI** |  | https://wiki.tcl-lang.org/page/GDI |
 | **image** |  | https://wiki.tcl-lang.org/page/image |
-| **image (TkCmd)** |  | https://www.tcl-lang.org/man/tcl8.6/TkCmd/image.html |
+| **image (TkCmd)** |  | https://www.tcl-lang.org/man/tcl9.0/TkCmd/image.html |
 | **imgop** |  | https://www.sics.se/~emmanuel/?Code:imgop |
 | **Imgtools - manipulate Tk photo images** |  | http://tkimgtools.sourceforge.net/ |
 | **LRIPhoto** |  | http://wfr.tcl.tk/LRIPhoto |
 | **Matthias Hoffmann - PhotoPrinter** |  | https://wiki.tcl-lang.org/page/Matthias+Hoffmann+%2D+PhotoPrinter |
 | **Paul Obermeier poSoft** |  | https://wiki.tcl-lang.org/page/Paul+Obermeier |
 | **photo** |  | https://wiki.tcl-lang.org/page/photo |
-| **photo (TkCmd)** |  | https://www.tcl-lang.org/man/tcl8.6/TkCmd/photo.html |
+| **photo (TkCmd)** |  | https://www.tcl-lang.org/man/tcl9.0/TkCmd/photo.html |
 | **Phototools** |  | https://wiki.tcl-lang.org/page/Phototools+%2D+Interactive+Editing+Of+JPG%2DComments |
 | **pix (nico-robert)** |  | https://github.com/nico-robert/pix |
 | **pixane** |  | http://core.tcl.tk/jenglish/gutter/packages/pixane.html |
@@ -57,7 +57,7 @@
 | **tclcairo** |  | https://wiki.tcl-lang.org/page/tclcairo |
 | **tclImageScale** |  | https://github.com/waddella/tclImageScale |
 | **tkpath** |  | https://wiki.tcl-lang.org/page/tkpath |
-| **ttk::image** | ttk::image man | https://www.tcl-lang.org/man/tcl8.6/TkCmd/ttk_image.html |
+| **ttk::image** | ttk::image man | https://www.tcl-lang.org/man/tcl9.0/TkCmd/ttk_image.html |
 | **WinGdi** |  | https://wiki.tcl-lang.org/page/WinGdi |
 
 ## Sonstiges
