@@ -1,5 +1,6 @@
 # 🏷️ Tag Index
 
+- [8.6](#8.6) (1)
 - [android](#android) (1)
 - [api](#api) (1)
 - [automation](#automation) (1)
@@ -33,11 +34,13 @@
 - [homepage](#homepage) (1)
 - [html](#html) (1)
 - [ide](#ide) (1)
+- [image](#image) (1)
 - [installer](#installer) (1)
 - [library](#library) (4)
 - [light](#light) (1)
 - [linter](#linter) (1)
 - [list](#list) (2)
+- [man](#man) (1)
 - [manpages](#manpages) (1)
 - [mirror](#mirror) (1)
 - [mobile](#mobile) (1)
@@ -70,6 +73,12 @@
 - [windows](#windows) (3)
 - [xml](#xml) (1)
 - [xpath](#xpath) (1)
+
+## 8.6
+
+| Resource | Category | Group | Link |
+|----------|----------|-------|------|
+| **ttk::image** | Graphics & Plotting | image | https://www.tcl-lang.org/man/tcl8.6/TkCmd/ttk_image.html |
 
 ## android
 
@@ -277,6 +286,12 @@
 |----------|----------|-------|------|
 | **alited** | Developer |  | https://aplsimple.github.io/en/tcl/alited/alited.html |
 
+## image
+
+| Resource | Category | Group | Link |
+|----------|----------|-------|------|
+| **ttk::image** | Graphics & Plotting | image | https://www.tcl-lang.org/man/tcl8.6/TkCmd/ttk_image.html |
+
 ## installer
 
 | Resource | Category | Group | Link |
@@ -310,6 +325,12 @@
 |----------|----------|-------|------|
 | **awesome-tcl-tk** | Awesome Lists |  | https://github.com/kr1sp1n/awesome-tcl-tk |
 | **Tablelist (tablelist_tile)** | Tk Table | Tablelist | https://www.nemethi.de/tablelist/ |
+
+## man
+
+| Resource | Category | Group | Link |
+|----------|----------|-------|------|
+| **ttk::image** | Graphics & Plotting | image | https://www.tcl-lang.org/man/tcl8.6/TkCmd/ttk_image.html |
 
 ## manpages
 
