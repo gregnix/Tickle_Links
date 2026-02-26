@@ -11,12 +11,12 @@
 | Resource | Description | Link |
 |----------|-------------|------|
 | **Excel** |  | https://wiki.tcl-lang.org/page/Excel |
-| **Office_Open_XML** |  | https://de.wikipedia.org/wiki/Office_Open_XML |
+| **Office_Open_XML** | Office Open XML – Wikipedia | https://de.wikipedia.org/wiki/Office_Open_XML |
 | **ooxml examples** |  | https://tcl.sowaswie.de/repos/fossil/ooxml/wiki?name=examples |
 | **ooxml home** |  | https://tcl.sowaswie.de/repos/fossil/ooxml/home |
 | **ooxml manpage** |  | https://tcl.sowaswie.de/repos/fossil/ooxml/wiki?name=man-page |
 | **ooxml  Office Open XML File Formats** |  | https://wiki.tcl-lang.org/page/ooxml+%2D+ECMA%2D376+Office+Open+XML+File+Formats+%28spreadsheet%29 |
-| **SpreadsheetML** |  | https://de.wikipedia.org/wiki/SpreadsheetML |
+| **SpreadsheetML** | SpreadsheetML – Wikipedia | https://de.wikipedia.org/wiki/SpreadsheetML |
 
 ## MS Windows
 

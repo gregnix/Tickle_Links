@@ -3,11 +3,13 @@
 - [8.6](#8.6) (1)
 - [android](#android) (1)
 - [api](#api) (1)
+- [array](#array) (3)
 - [automation](#automation) (1)
 - [awesome](#awesome) (2)
 - [binding](#binding) (1)
 - [bridge](#bridge) (1)
 - [c](#c) (2)
+- [callback](#callback) (4)
 - [collection](#collection) (1)
 - [community](#community) (1)
 - [compile](#compile) (1)
@@ -52,6 +54,7 @@
 - [pdf](#pdf) (2)
 - [python](#python) (1)
 - [reference](#reference) (1)
+- [regular expressions](#regular-expressions) (20)
 - [rendering](#rendering) (2)
 - [resources](#resources) (1)
 - [security](#security) (1)
@@ -92,6 +95,14 @@
 |----------|----------|-------|------|
 | **TWAPI** | OS Windows | twapi | https://twapi.magicsplat.com/ |
 
+## array
+
+| Resource | Category | Group | Link |
+|----------|----------|-------|------|
+| **arrayval** | Themes | parray | https://wiki.tcl-lang.org/page/arrayval |
+| **library (TclCmd)** | Themes | parray | https://www.tcl-lang.org/man/tcl9.0/TclCmd/library.html#M13 |
+| **parray** | Themes | parray | https://wiki.tcl-lang.org/page/parray |
+
 ## automation
 
 | Resource | Category | Group | Link |
@@ -123,6 +134,15 @@
 |----------|----------|-------|------|
 | **CriTcl** | Build & Deployment |  | https://github.com/andreas-kupries/critcl |
 | **cffi** | Extensions |  | https://cffi.magicsplat.com/ |
+
+## callback
+
+| Resource | Category | Group | Link |
+|----------|----------|-------|------|
+| **callback** | 📥 Import (ungeprüft) | callback | https://wiki.tcl-lang.org/page/callback |
+| **callback** | 📥 Import (ungeprüft) | callback | https://www.tcl-lang.org/man/tcl9.0/TclCmd/callback.html |
+| **namespace code** | 📥 Import (ungeprüft) | callback | https://wiki.tcl-lang.org/page/namespace+code |
+| **tkevent** | 📥 Import (ungeprüft) | callback | https://wiki.tcl-lang.org/page/tkevent |
 
 ## collection
 
@@ -399,6 +419,31 @@
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
 | **Tcl/Tk Man Pages** | Documentation |  | https://www.magicsplat.com/tcl-docs/ |
+
+## regular expressions
+
+| Resource | Category | Group | Link |
+|----------|----------|-------|------|
+| **Canvas microjustification** | Themes | re_syntax | https://wiki.tcl-lang.org/page/Canvas+microjustification |
+| **Category Word and Text Processing** | Themes | re_syntax | https://wiki.tcl-lang.org/page/Category+Word+and+Text+Processing |
+| **More Examples Of Regular Expressions** | Themes | Regular Expressions | https://wiki.tcl-lang.org/page/Tcl+Tutorial+Lesson+20a |
+| **Regular Expression 101** | Themes | Regular Expressions | https://wiki.tcl-lang.org/page/Tcl+Tutorial+Lesson+20 |
+| **Regular Expression Examples** | Themes | Regular Expressions | https://wiki.tcl-lang.org/page/Regular+Expression+Examples |
+| **Regular Expressions** | Themes | Regular Expressions | https://wiki.tcl-lang.org/page/Regular+Expressions |
+| **Regulärer Ausdruck** | Themes | Regular Expressions | https://de.wikipedia.org/wiki/Regul%C3%A4rer_Ausdruck |
+| **expander** | Themes | re_syntax | https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/tcllib/files/modules/textutil/expander.md |
+| **re_syntax** | Themes | re_syntax | https://wiki.tcl-lang.org/page/re%5Fsyntax |
+| **re_syntax** | Themes | re_syntax | http://www.tcl-lang.org/man/tcl9.0/TclCmd/re_syntax.html |
+| **regexp** | Themes | Regular Expressions | https://en.wikibooks.org/wiki/Tcl_Programming/regexp |
+| **regexp** | Themes | regexp | https://wiki.tcl-lang.org/page/regexp |
+| **regexp** | Themes | regexp | http://www.tcl-lang.org/man/tcl9.0/TclCmd/regexp.html |
+| **regexp.doc** | Themes | Regular Expressions | http://www.beedub.com/book/2nd/regexp.doc.html |
+| **tcl** | Themes | Regular Expressions | https://www.regular-expressions.info/tcl.html |
+| **tcl** | Themes | Regular Expressions | http://www.wellho.net/regex/tcl.html |
+| **tcl regex** | Themes | Regular Expressions | https://stackoverflow.com/questions/tagged/tcl+regex |
+| **tcl regsub** | Themes | Regular Expressions | https://stackoverflow.com/questions/tagged/tcl+regsub |
+| **tcl_regular_expressions** | Themes | Regular Expressions | https://www.tutorialspoint.com/tcl-tk/tcl_regular_expressions.htm |
+| **zeilenanker** | Themes | Regular Expressions | https://www.data2type.de/xml-xslt-xslfo/regulaere-ausdruecke/features-und-dialekte/uebliche-metazeichen/zeilenanker |
 
 ## rendering
 

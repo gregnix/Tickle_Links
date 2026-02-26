@@ -13,6 +13,20 @@
 | **clay - tcllib manual** |  | https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/tcllib/files/modules/clay/clay.md |
 | **clay(n) tcllib "Clay Framework"** |  | https://wiki.tcl-lang.org/page/clay |
 
+## incr Widgets
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **incr Widgets** |  | https://wiki.tcl-lang.org/page/incr+Widgets |
+
+## incrTcl
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **contents (ItclCmd)** |  | https://www.tcl-lang.org/man/tcl9.0/ItclCmd/contents.html |
+| **incr Tcl** |  | https://wiki.tcl-lang.org/page/incr+Tcl |
+| **itcl-ng** |  | https://wiki.tcl-lang.org/page/itcl%2Dng |
+
 ## Megawidgets
 
 | Resource | Description | Link |
@@ -25,23 +39,38 @@
 | **tk/library/megawidget.tcl** |  | https://core.tcl-lang.org/tk/file?name=library/megawidget.tcl |
 | **tk::Megawidget** |  | https://wiki.tcl-lang.org/page/tk%3A%3AMegawidget |
 
+## Meta Class
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **Extending TclOO with metaclasses** |  | https://wiki.tcl-lang.org/page/Extending+TclOO+with+metaclasses |
+| **metaclass** |  | https://wiki.tcl-lang.org/page/metaclass |
+| **TclOO Tiny Class Scaffolding** |  | https://wiki.tcl-lang.org/page/TclOO+Tiny+Class+Scaffolding |
+
+## mixin
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **257** | Tcl Improvement Proposals: TIP 257: Object Orientation for Tcl | https://core.tcl-lang.org/tips/doc/trunk/tip/257.md |
+| **Mixins and vars in TclOO** |  | https://wiki.tcl-lang.org/page/Mixins+and+vars+in+TclOO |
+
 ## OOs Systeme
 
 | Resource | Description | Link |
 |----------|-------------|------|
 | **Category Object Orientation** |  | https://wiki.tcl-lang.org/page/Category+Object+Orientation |
-| **Delegation (Softwareentwicklung)** |  | https://de.wikipedia.org/wiki/Delegation_(Softwareentwicklung) |
-| **Klasse (Objektorientierung)** |  | https://de.wikipedia.org/wiki/Klasse_(Objektorientierung) |
-| **Methode (Programmierung)** |  | https://de.wikipedia.org/wiki/Methode_(Programmierung) |
-| **Mixin** |  | https://de.wikipedia.org/wiki/Mixin |
+| **Delegation (Softwareentwicklung)** | Delegation (Softwareentwicklung) – Wikipedia | https://de.wikipedia.org/wiki/Delegation_(Softwareentwicklung) |
+| **Klasse (Objektorientierung)** | Klasse (Objektorientierung) – Wikipedia | https://de.wikipedia.org/wiki/Klasse_(Objektorientierung) |
+| **Methode (Programmierung)** | Methode (Programmierung) – Wikipedia | https://de.wikipedia.org/wiki/Methode_(Programmierung) |
+| **Mixin** | Mixin – Wikipedia | https://de.wikipedia.org/wiki/Mixin |
 | **Object orientation** |  | https://wiki.tcl-lang.org/page/Object+orientation |
 | **Object Oriented Programming in Tcl** |  | http://www.magicsplat.com/articles/oo.html |
 | **Objects in Tcl** |  | http://www.gener8.be/site/articles/tcl_objects/tcl_objects.html |
-| **Objekt (Programmierung)** |  | https://de.wikipedia.org/wiki/Objekt_(Programmierung) |
-| **Objektorientierte Programmierung** |  | https://de.wikipedia.org/wiki/Objektorientierte_Programmierung |
-| **Singleton (Entwurfsmuster)** |  | https://de.wikipedia.org/wiki/Singleton_(Entwurfsmuster) |
-| **Strategie (Entwurfsmuster)** |  | https://de.wikipedia.org/wiki/Strategie_(Entwurfsmuster) |
-| **Vererbung (Programmierung)** |  | https://de.wikipedia.org/wiki/Vererbung_(Programmierung) |
+| **Objekt (Programmierung)** | Objekt (Programmierung) – Wikipedia | https://de.wikipedia.org/wiki/Objekt_(Programmierung) |
+| **Objektorientierte Programmierung** | Objektorientierte Programmierung – Wikipedia | https://de.wikipedia.org/wiki/Objektorientierte_Programmierung |
+| **Singleton (Entwurfsmuster)** | Singleton (Entwurfsmuster) – Wikipedia | https://de.wikipedia.org/wiki/Singleton_(Entwurfsmuster) |
+| **Strategie (Entwurfsmuster)** | Strategie (Entwurfsmuster) – Wikipedia | https://de.wikipedia.org/wiki/Strategie_(Entwurfsmuster) |
+| **Vererbung (Programmierung)** | Vererbung (Programmierung) – Wikipedia | https://de.wikipedia.org/wiki/Vererbung_(Programmierung) |
 
 ## oowidgets
 
@@ -57,6 +86,33 @@
 | **paul statusbar** |  | https://htmlpreview.github.io/?https://raw.githubusercontent.com/mittelmark/oowidgets/master/paul/statusbar.html |
 | **paul tx** |  | https://htmlpreview.github.io/?https://raw.githubusercontent.com/mittelmark/oowidgets/master/paul/txmixins.html |
 | **Tutorial** |  | https://htmlpreview.github.io/?https://raw.githubusercontent.com/mittelmark/oowidgets/master/tutorial.html |
+
+## snit
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **Category Snit** |  | https://wiki.tcl-lang.org/page/Category+Snit |
+| **Designing SNIT widgets as mixins** |  | https://wiki.tcl-lang.org/page/Designing+SNIT+widgets+as+mixins |
+| **Entry widget for numeric data** |  | https://wiki.tcl-lang.org/page/Entry+widget+for+numeric+data |
+| **index** |  | http://chiselapp.com/user/dgroth/repository/tclcode/index |
+| **RSS-Newsfeeds lesen mit Tcl, Snit und TDOM** |  | https://www.linux-magazin.de/ausgaben/2005/01/appetithaeppchen/ |
+| **Snit's Not Incr Tcl** |  | https://wiki.tcl-lang.org/page/Snit%27s+Not+Incr+Tcl |
+| **snit(n) 2.3.2 tcllib** |  | https://core.tcl.tk/tcllib/doc/trunk/embedded/md/tcllib/files/modules/snit/snit.md |
+| **snitfaq(n) 2.2 tcllib** |  | https://core.tcl.tk/tcllib/doc/trunk/embedded/md/tcllib/files/modules/snit/snitfaq.md |
+| **snot** |  | http://chiselapp.com/user/aspect/repository/snot/home |
+
+## Sonstiges
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **autoObjectBase** |  | https://chiselapp.com/user/erikj/repository/autoObject/index |
+| **detect-changes-in-a-tktext-widget** |  | https://stackoverflow.com/questions/14160122/detect-changes-in-a-tktext-widget |
+| **GUIs-with-TCL,-Tk-and-TclOO** |  | https://rbn.im/GUIs-with-TCL,-Tk-and-TclOO/GUIs-with-TCL,-Tk-and-TclOO.html |
+| **Implementation of struct::record using TclOO** |  | https://wiki.tcl-lang.org/page/Implementation+of+struct%3A%3Arecord+using+TclOO |
+| **Prototype Pattern in Tcl** |  | https://wiki.tcl-lang.org/page/Prototype+Pattern+in+Tcl |
+| **tclOO Pattern: Strategy** |  | https://wiki.tcl-lang.org/page/tclOO+Pattern%3A+Strategy |
+| **TclOO Tricks** |  | https://wiki.tcl-lang.org/page/TclOO+Tricks |
+| **tcloo-cross-object-namespace-export-import** |  | https://stackoverflow.com/questions/50349912/tcloo-cross-object-namespace-export-import |
 
 ## TclOO
 

@@ -28,6 +28,29 @@
 | **man-lpstat** |  | https://www.cups.org/doc/man-lpstat.html |
 | **Printing in Tcl** |  | https://groups.google.com/g/comp.lang.tcl/c/B2pNLwz-uko/m/5ioMwCke0RAJ |
 
+## mupdf
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **Highlighter** |  | https://wiki.tcl-lang.org/page/Highlighter |
+| **Highlighter** |  | https://sourceforge.net/projects/irrational-numbers/files/Highlighter/ |
+| **MuPdfWidget** |  | https://wiki.tcl-lang.org/page/MuPdfWidget |
+| **MuPDFWidget** |  | https://sourceforge.net/projects/irrational-numbers/files/MuPDFWidget/ |
+| **pdfviewer** |  | https://sourceforge.net/projects/irrational-numbers/files/pdfviewer/ |
+| **tclMuPdf** |  | https://wiki.tcl-lang.org/page/tclMuPdf |
+| **tclMuPDF-2.x** |  | https://sourceforge.net/projects/irrational-numbers/files/tclMuPDF-2.x/ |
+
+## pandoc
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **markdown_pandoc** |  | https://kofler.info/ebooks/markdown_pandoc/ |
+| **pandoc** |  | https://pandoc.org/ |
+| **Pandoc** | Pandoc – Wikipedia | https://de.wikipedia.org/wiki/Pandoc |
+| **pandoc** |  | https://www.baireuther.de/page/pandoc/ |
+| **pantcl** |  | https://wiki.tcl-lang.org/page/pantcl |
+| **pantcl (mittelmark)** |  | https://github.com/mittelmark/pantcl |
+
 ## pdf
 
 | Resource | Description | Link |
@@ -129,7 +152,7 @@
 | **fpdf** |  | http://fpdf.de |
 | **fpdf (go-pdf)** |  | https://github.com/go-pdf/fpdf |
 | **fpdf2** |  | https://pypi.org/project/fpdf2/ |
-| **gofpdf (jung-kurt)** |  | https://github.com/jung-kurt/gofpdf |
+| **gofpdf (jung-kurt)** | A PDF document generator with high level support for text, drawing and images - jung-kurt/gofpdf | https://github.com/jung-kurt/gofpdf |
 | **script92** |  | http://fpdf.org/en/script/script92.php |
 | **tclfpdf** | PDF generation (FPDF port) | https://github.com/lamuzzachiodi/tclfpdf |
 | **www.fpdf** |  | http://www.fpdf.org |

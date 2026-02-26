@@ -12,6 +12,13 @@
 | **Introduction to named fonts** |  | https://web.archive.org/web/20090302082049/http://www.tclscripting.com/articles/jun06/article1.html |
 | **Tcl/Tk Fontmap generator** |  | https://github.com/trijezdci/TclTk-Fontmap/ |
 
+## Linux
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **fc-cache** |  | https://linux.die.net/man/1/fc-cache |
+| **fc-list** |  | https://linux.die.net/man/1/fc-list |
+
 ---
 
 [← Back to Overview](../README.md) · [Tag Index](../index.md)

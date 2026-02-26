@@ -1,5 +1,28 @@
 # Data Formats
 
+## csv
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **csv** |  | https://wiki.tcl-lang.org/page/csv |
+| **CSV Sql** |  | https://wiki.tcl-lang.org/page/CSV+Sql |
+| **CSV_(Dateiformat)** | CSV (Dateiformat) – Wikipedia | https://de.wikipedia.org/wiki/CSV_(Dateiformat) |
+| **Parsing csv file** |  | https://wiki.tcl-lang.org/page/Parsing+csv+file |
+| **tclcsv.magicsplat** |  | https://tclcsv.magicsplat.com/ |
+| **tcllib csv** |  | https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/tcllib/files/modules/csv/csv.md |
+| **Tcllib Csv** |  | https://wiki.tcl-lang.org/page/Tcllib+Csv |
+
+## html
+
+| Resource | Description | Link |
+|----------|-------------|------|
+| **html** |  | https://wiki.tcl-lang.org/page/html |
+| **HTML generator** |  | https://wiki.tcl-lang.org/page/HTML+generator |
+| **HTML widgets** |  | https://wiki.tcl-lang.org/page/HTML+widgets |
+| **Parsing HTML** |  | https://wiki.tcl-lang.org/page/Parsing+HTML |
+| **tcllib html** |  | https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/tcllib/files/modules/html/html.md |
+| **xmlgen + htmlgen** |  | https://wiki.tcl-lang.org/page/xmlgen+%2F+htmlgen |
+
 ## Markdown
 
 | Resource | Description | Link |
@@ -36,14 +59,14 @@
 | **Tclyaml** |  | https://core.tcl-lang.org/akupries/tclyaml/index |
 | **YAML** |  | https://wiki.tcl-lang.org/page/YAML |
 | **Yaml - tcllib** |  | https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/tcllib/files/modules/yaml/yaml.md |
-| **YAML - wikipedia** |  | https://de.wikipedia.org/wiki/YAML |
+| **YAML - wikipedia** | YAML – Wikipedia | https://de.wikipedia.org/wiki/YAML |
 
 ## zip
 
 | Resource | Description | Link |
 |----------|-------------|------|
 | **Trf** |  | https://wiki.tcl-lang.org/page/Trf |
-| **ZIP-Dateiformat - wikipedia** |  | https://de.wikipedia.org/wiki/ZIP-Dateiformat |
+| **ZIP-Dateiformat - wikipedia** | ZIP-Dateiformat – Wikipedia | https://de.wikipedia.org/wiki/ZIP-Dateiformat |
 | **zipfile::decode Access to zip archives** |  | https://core.tcl-lang.org/tcllib/doc/trunk/embedded/md/tcllib/files/modules/zip/decode.md |
 | **zipper 0.11 :  zipper 0.https://equi4.com/critlib/** |  | https://equi4.com/critlib/ |
 | **zipper 0.12 : Using zipper to create zip files** |  | https://wiki.tcl-lang.org/page/Using+zipper+to+create+zip+files |
