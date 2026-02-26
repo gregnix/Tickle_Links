@@ -184,7 +184,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **awthemes** | ttk Themes | GUI Toolkit | https://sourceforge.net/projects/tcl-awthemes/ |
+| **awthemes** | Ttk | GUI Toolkit | https://sourceforge.net/projects/tcl-awthemes/ |
 
 ## database
 
@@ -222,7 +222,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Azure Theme** | ttk Themes | GUI Toolkit | https://github.com/rdbende/Azure-ttk-theme |
+| **Azure Theme** | Ttk | GUI Toolkit | https://github.com/rdbende/Azure-ttk-theme |
 
 ## event
 
@@ -331,7 +331,7 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **awthemes** | ttk Themes | GUI Toolkit | https://sourceforge.net/projects/tcl-awthemes/ |
+| **awthemes** | Ttk | GUI Toolkit | https://sourceforge.net/projects/tcl-awthemes/ |
 
 ## linter
 
@@ -511,9 +511,9 @@
 
 | Resource | Category | Group | Link |
 |----------|----------|-------|------|
-| **Azure Theme** | ttk Themes | GUI Toolkit | https://github.com/rdbende/Azure-ttk-theme |
-| **Sun Valley Theme** | ttk Themes | GUI Toolkit | https://github.com/rdbende/Sun-Valley-ttk-theme |
-| **awthemes** | ttk Themes | GUI Toolkit | https://sourceforge.net/projects/tcl-awthemes/ |
+| **Azure Theme** | Ttk | GUI Toolkit | https://github.com/rdbende/Azure-ttk-theme |
+| **Sun Valley Theme** | Ttk | GUI Toolkit | https://github.com/rdbende/Sun-Valley-ttk-theme |
+| **awthemes** | Ttk | GUI Toolkit | https://sourceforge.net/projects/tcl-awthemes/ |
 
 ## tls
 
@@ -564,7 +564,7 @@
 |----------|----------|-------|------|
 | **Magicsplat** | Distributions |  | https://www.magicsplat.com/tcl-installer/ |
 | **TWAPI** | OS Windows | twapi | https://twapi.magicsplat.com/ |
-| **Sun Valley Theme** | ttk Themes | GUI Toolkit | https://github.com/rdbende/Sun-Valley-ttk-theme |
+| **Sun Valley Theme** | Ttk | GUI Toolkit | https://github.com/rdbende/Sun-Valley-ttk-theme |
 
 ## xml
 

@@ -95,22 +95,12 @@
 | **Where+to+store+application+configuration+files** |  | https://wiki.tcl-lang.org/page/Where+to+store+application+configuration+files?R=0 |
 | **wish (UserCmd)** |  | https://www.tcl-lang.org/man/tcl9.0/UserCmd/wish.html |
 
-## Style
-
-| Resource | Description | Link |
-|----------|-------------|------|
-| **Changing Widget Colors** |  | https://wiki.tcl-lang.org/page/Changing+Widget+Colors |
-| **customize-ttkbutton** |  | https://stackoverflow.com/questions/48050219/customize-ttkbutton |
-| **ttk::style** |  | https://wiki.tcl-lang.org/page/ttk%3A%3Astyle |
-| **ttk_style** |  | https://www.tcl-lang.org/man/tcl9.0/TkCmd/ttk_style.html |
-
 ## style
 
 | Resource | Description | Link |
 |----------|-------------|------|
 | **code style** |  | https://wiki.tcl-lang.org/page/code+style |
 | **styleguide** |  | http://web.archive.org/web/20131026052705/http://www.self-tcl.de/styleguide.php |
-| **Tcl Minimal Escaping Style** |  | https://wiki.tcl-lang.org/page/Tcl+Minimal+Escaping+Style |
 | **Tcl Style Guide** |  | https://wiki.tcl-lang.org/page/Tcl+Style+Guide |
 
 ## Tcl/Tk
